@@ -80,5 +80,4 @@ bot.on("message", async message => {
 });
 
 
-
 bot.login("NDQ4Mzk4ODM1NDYzNzQ5NjMz.DeVuyA.YOAHZKXKUUj-F92nQlqH463ECaQ");
